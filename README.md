@@ -5,7 +5,8 @@ The **Awesome Chocolate Sales Report** is an end-to-end data analytics project t
 The report provides insights into **sales trends, profitability, shipment behavior, product performance, and salesperson efficiency** to support data-driven business decisions.
 
 This project demonstrates practical skills in **Excel, Power BI, Power Query, and DAX**, following a real-world business reporting approach.
-
+See the full dashboard here: [App Power Bi Link](https://app.powerbi.com/view?r=eyJrIjoiMjUwNTkwYjUtY2MyYy00Y2MyLTkyMjctOTcxNGJlMDdlZDk1IiwidCI6ImNkODBjZGZjLTllMjYtNDVlMC1iMTBlLWMwNTYwOGI2ZjZiNiJ9)
+![Dahsboard](Awesome Chocolates Sales Report.png)
 ---
 
 ## 🎯 Business Objectives
