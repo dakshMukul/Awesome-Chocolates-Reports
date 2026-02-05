@@ -7,6 +7,7 @@ The report provides insights into **sales trends, profitability, shipment behavi
 This project demonstrates practical skills in **Excel, Power BI, Power Query, and DAX**, following a real-world business reporting approach.
 
 See the full dashboard here: [App Power Bi Link](https://app.powerbi.com/view?r=eyJrIjoiMjUwNTkwYjUtY2MyYy00Y2MyLTkyMjctOTcxNGJlMDdlZDk1IiwidCI6ImNkODBjZGZjLTllMjYtNDVlMC1iMTBlLWMwNTYwOGI2ZjZiNiJ9)
+![Dashboard](https://github.com/dakshMukul/Awesome-Chocolates-Reports/blob/main/Awesome%20Chocolates%20Sales%20Report.png)
 
 
 ---
